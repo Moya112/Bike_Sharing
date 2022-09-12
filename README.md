@@ -25,3 +25,8 @@ https://public.tableau.com/app/profile/moya.heinzelmann/viz/Bike_Sharing_1662398
 ![Trips by Gender (Weekday per Hour](https://user-images.githubusercontent.com/105765150/189558896-5f3224c9-8824-4426-91a4-758a49d6218f.png)
 
 ![Citi Bike Sharing Analysis](https://user-images.githubusercontent.com/105765150/189559013-b498fe57-f108-4e57-9e29-ff9d3c1e84e5.png)
+
+![Bike Utilization](https://user-images.githubusercontent.com/105765150/189561125-13fe9db3-5ab5-44ae-9616-960a9569d288.png)
+
+
+![Average Trip Duration](https://user-images.githubusercontent.com/105765150/189561109-f7c33c16-5b1c-4377-942f-bd8bb5ba40f4.png)
