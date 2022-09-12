@@ -17,6 +17,7 @@ https://public.tableau.com/app/profile/moya.heinzelmann/viz/Bike_Sharing_1662398
 
 ![Top Ending Location](https://user-images.githubusercontent.com/105765150/189559239-7ed3575e-e827-4d2a-a60f-d7cf783d28ad.png)
 
+![Trips by Weekday per Hour](https://user-images.githubusercontent.com/105765150/189559281-48b33fb8-23b9-4da6-a507-9602b0a40e58.png)
 
 
 ![Dashboard 1](https://user-images.githubusercontent.com/105765150/189558822-5827f5b2-7063-4c85-9093-87a0173b062e.png)
