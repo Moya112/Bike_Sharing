@@ -12,6 +12,13 @@ For this analysis, Pandas was used to change the trip-duration column from an in
 https://public.tableau.com/app/profile/moya.heinzelmann/viz/Bike_Sharing_16623987476570/CitiBikeSharingAnalysis?publish=yes
 
 ## Results
+
+![Top Starting Location](https://user-images.githubusercontent.com/105765150/189559196-1f6380d5-68cf-410f-b806-95444fb5a5df.png)
+
+![Top Ending Location](https://user-images.githubusercontent.com/105765150/189559239-7ed3575e-e827-4d2a-a60f-d7cf783d28ad.png)
+
+
+
 ![Dashboard 1](https://user-images.githubusercontent.com/105765150/189558822-5827f5b2-7063-4c85-9093-87a0173b062e.png)
 
 ![Trips by Gender (Weekday per Hour](https://user-images.githubusercontent.com/105765150/189558896-5f3224c9-8824-4426-91a4-758a49d6218f.png)
